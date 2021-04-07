@@ -57,7 +57,8 @@
   ```sh
   pip install -r requirements.txt
   ```
-
+ОС:
+* Windows 10(20H2)
 Версия python:
 * [Python~=3.8](https://www.python.org/)
 
