@@ -19,7 +19,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Содержание:</summary>
   <ol>
     <li>
       <a href="#О-проекте">О проекте</a>
