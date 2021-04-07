@@ -21,7 +21,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">О проекте</a>
+      <a href="#О-ПРОЕКТЕ">О проекте</a>
       <ul>
         <li><a href="#built-with">Построен с</a></li>
       </ul>
@@ -44,7 +44,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## О ПРОЕКТЕ
-
 ![Product Name Screen Shot][product-screenshot]
 
 Сделать <a href="#about-the-project">задание</a>
@@ -135,12 +134,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
+
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
 
 
 <!-- Задание -->
